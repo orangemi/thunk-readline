@@ -1,0 +1,25 @@
+{
+  "name": "thunk-readline",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orangemi/thunk-readline.git"
+  },
+  "keywords": [
+    "thunk"
+  ],
+  "author": "Orange Mi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orangemi/thunk-readline/issues"
+  },
+  "homepage": "https://github.com/orangemi/thunk-readline#readme"
+}
